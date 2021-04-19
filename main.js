@@ -42,7 +42,7 @@ var configs = (function () {
         accesible_cores: "Accessible cores",
         language: "Language",
         value_token: "<value>",
-        host: "dsaramif.com",
+        host: "saramif",
         user: "guest",
         is_root: false,
         type_delay: 20
