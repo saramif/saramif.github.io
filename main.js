@@ -68,10 +68,10 @@ var files = (function () {
     };
     Singleton.defaultOptions = {
         "about-me.txt": "Age: 5: It all started; I wanted to be an astronaut.\n Age: 7: Planned to build my spaceship for my travel to space. \n Age: 10: Realized most of the amazing stuff I want to do will only be possible with computers.\n Age: 12: Started programming.\n Ever since, I have been experimenting different fields of smart tech and IT, and finally came to the conclusion that Mechatronics Engineering best suites my passion.",
-        "experience.txt": "Lead Sensei \n From October 2020, I have been working with the Code Ninjas. \n They are a franchise for teaching coding to kids ages 7-14 \n I have been honored to be the leader of sensei teams after my first month of working at the Leaside location\n\n Sr. Camp Counsellor\nThe STEAM Project\n The STEAM Project is an institution for teaching STEM to kids while giving the opportunity to unleash their creativity by having access to various tools and machines",
+        "experience.txt": "Leader of Instructing Team \n From October 2020, I have been working with the Code Ninjas. \n Code Ninjas is a franchise for teaching coding to kids ages 7-14 \n I have been honored to be the leader of sensei teams after my first 6 months of working at the Leaside location\n\n Junior Developer\n I have been working as a part time developer for the past 3 years by working on my projects, team projects, and hackathons.\n Programming is one of my passions and I enjoy constant learning and exceling my skills in coding field.\n\nSr. Camp Counsellor\nThe STEAM Project\n The STEAM Project is an institution for teaching STEM to kids while giving the opportunity to unleash their creativity by having access to various tools and machines",
         "volunteering.txt" : "Paradigm Shift\n Junior Designer and Mechanic\n FIRST Robotics 2019 \n \n FMC-Life Mechatronics Team\n Junior Application Developer\n 2017 International competition",
         "awards.txt":"2019 FIRST Robotics, Toronto, Provincials \n2017 International Mechatronics Competitions, Tehran, First Place",
-        "certificates.txt": "CompTIA Security+ \n Cisco Essentials \n Python3 \n Customer Service \n WHMIS 2015 \n First Aid and CPR ",
+        "certificates.txt": "CompTIA Security+ \n Cisco Essentials \n Automation with Python | Google\n WHMIS 2015 \n First Aid and CPR ",
         "contact.txt": "saramiforoushani@gmail.com",
         "LinkedIn.txt": "https://www.linkedin.com/in/saramiforoushani/",
         "one-day.txt": "https://seds.ca/join/"
